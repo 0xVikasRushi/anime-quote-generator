@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Anime Random Quote Generator
+This Project Generates random Anime Quote with Character and Anime name created using react.js
 ## Available Scripts
 
 In the project directory, you can run:
