@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 10px;
+  font-family: "Poppins", sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=Patua+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Silkscreen:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap");
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: #1e306e;
+}
+.main {
+  width: 605px;
+  background: #fff;
+  border-radius: 15px;
+  padding: 30px 30px 25px;
+}
+
+#author {
+  background-color: yellow;
+  /* box-sizing: border-box; */
+  display: inline;
+  width: 100px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+h3 {
+  margin-left: 20em;
+  font-weight: ;
+
+  font-family: "Caveat", cursive;
+}
+h1 {
+  margin: 5px 50px 0px 100px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.quote-text {
+  margin-top: 1em;
+  font-size: x-large;
+}
+#anime-name {
+  padding: 10px;
+  display: inline;
+  color: #3f3f3f;
+  display: flex;
+  border-radius: 12px;
+  margin-right: 500px;
+}
+#anime-text {
+  font-family: "Patua One", cursive;
+}
+#button {
+  background-color: purple; /* Green */
+  border-radius: 12px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  margin-top: 1.6em;
+
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 170px;
+}
+#anime-title {
+  font-family: "Caveat", cursive;
+  font-family: "Silkscreen", cursive;
+}
